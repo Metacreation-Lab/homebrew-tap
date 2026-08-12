@@ -1,6 +1,6 @@
 cask "autolume" do
-  version "2.17.0"
-  sha256 "46bdb1e0ae3e47a531c3fe9a1a1977f0e812388be15b8755de63fde2e3290e55"
+  version "2.18.0"
+  sha256 "4909591d97d9527579acd8e1643a903076ba2dfa11451c3fae896e8bf9cd40de"
 
   url "https://github.com/Metacreation-Lab/autolume/releases/download/v#{version}/autolume-#{version}-darwin-arm64.dmg"
   name "Autolume"
